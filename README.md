@@ -1,5 +1,7 @@
 #dataset info
 
+Japanese dialog act analysis/people-related information detect dataset
+
 link for download:https://drive.google.com/file/d/1-mGdI8PQKZ_1A2ETs25YbtnEgRVWUgsA/view?usp=sharing
 
 labels:
