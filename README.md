@@ -4,21 +4,21 @@ Japanese dialog act analysis/people-related information detect dataset
 
 link for download:https://drive.google.com/file/d/1-mGdI8PQKZ_1A2ETs25YbtnEgRVWUgsA/view?usp=sharing
 
-labels:
+    labels:
 
-ssi/osi:subjective information
-soi/ooi:objective information
-op/sp:plan
-qu:question
-ap:apology
-th:thanking
-cc:topic changing/closing
-ag:aggrement
-ds:disagreement
-re:request
-pr:proposal
-su:summarize/reformulate
-th:other
+    ssi/osi:subjective information
+    soi/ooi:objective information
+    op/sp:plan
+    qu:question
+    ap:apology
+    th:thanking
+    cc:topic changing/closing
+    ag:aggrement
+    ds:disagreement
+    re:request
+    pr:proposal
+    su:summarize/reformulate
+    th:other
 
 
 
