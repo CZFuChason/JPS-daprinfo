@@ -25,3 +25,6 @@ link for download:https://drive.google.com/file/d/1-mGdI8PQKZ_1A2ETs25YbtnEgRVWU
 training:I-JAS_JJJ01-10-I, I-JAS_JJJ11-20-I, I-JAS_JJJ21-30-I, I-JAS_JJJ31-39-I,I-JAS_JJJ43-50-I,I-JAS_JJJ51-57-I
 
 testing:I-JAS_JJJ51-57-I
+
+
+Please kindly cite this dataset when you use the it.
