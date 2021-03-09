@@ -47,3 +47,5 @@ Changzeng Fu, Chaoran Liu, Carlos Toshinori Ishi, & Hiroshi Ishiguro. (2021). JP
       doi          = {10.5281/zenodo.4590253},
       url          = {https://doi.org/10.5281/zenodo.4590253}
     }
+
+link for I-JAS (original): https://chunagon.ninjal.ac.jp/static/ijas/about.html
