@@ -27,4 +27,4 @@ training:I-JAS_JJJ01-10-I, I-JAS_JJJ11-20-I, I-JAS_JJJ21-30-I, I-JAS_JJJ31-39-I,
 testing:I-JAS_JJJ51-57-I
 
 
-Please kindly cite this dataset when you use the it.
+Please kindly cite this dataset when you use it.
