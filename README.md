@@ -15,7 +15,7 @@ link for download:https://drive.google.com/file/d/1-mGdI8PQKZ_1A2ETs25YbtnEgRVWU
     ap:apology
     th:thanking
     cc:topic changing/closing
-    ag:aggrement
+    ag:agreement
     ds:disagreement
     re:request
     pr:proposal
