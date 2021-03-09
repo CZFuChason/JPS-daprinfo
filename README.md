@@ -29,7 +29,7 @@ testing:I-JAS_JJJ51-57-I
 
 Please kindly cite this dataset when you use it.
 
-    Changzeng Fu, Chaoran Liu, Carlos Toshinori Ishi, & Hiroshi Ishiguro. (2021). JPS-daprinfo: A Dataset for Japanese Dialog Act Analysis and People-related Information Detection (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4590253
+Changzeng Fu, Chaoran Liu, Carlos Toshinori Ishi, & Hiroshi Ishiguro. (2021). JPS-daprinfo: A Dataset for Japanese Dialog Act Analysis and People-related Information Detection (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4590253
 
     @dataset{changzeng_fu_2021_4590253,
       author       = {Changzeng Fu and
