@@ -9,7 +9,7 @@ link for download:https://drive.google.com/file/d/1-mGdI8PQKZ_1A2ETs25YbtnEgRVWU
     labels:
 
     ssi/osi:subjective information
-    soi/ooi:objective information
+    soi/ooi/kn:objective information
     op/sp:plan
     qu:question
     ap:apology
