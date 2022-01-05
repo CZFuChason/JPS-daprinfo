@@ -23,8 +23,8 @@ We conducted a labeling work on a spoken Japanese dataset (I-JAS) for the text c
 
 
 
-training/developing:I-JAS_JJJ01-10-I, I-JAS_JJJ11-20-I, I-JAS_JJJ21-30-I, I-JAS_JJJ31-39-I,I-JAS_JJJ43-50-I
-
+training:I-JAS_JJJ01-10-I, I-JAS_JJJ11-20-I, I-JAS_JJJ21-30-I, I-JAS_JJJ31-39-I
+development: I-JAS_JJJ43-50-I
 testing:I-JAS_JJJ51-57-I
 
 
