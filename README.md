@@ -4,7 +4,6 @@ Japanese dialog act analysis/people-related information detect dataset
 
 We conducted a labeling work on a spoken Japanese dataset (I-JAS) for the text classification, which contains 50 interview dialogues of two-way Japanese conversation that discuss the participants' past present and future. Each dialogue is 30 minutes long. From this dataset, we selected the interview dialogues of native Japanese speakers as the samples. Given the dataset, we annotated sentences with 13 labels. The labeling work was conducted by native Japanese speakers who have experience with data annotation.
 
-link for download:https://drive.google.com/file/d/1-mGdI8PQKZ_1A2ETs25YbtnEgRVWUgsA/view?usp=sharing
 
     labels:
 
