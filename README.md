@@ -7,9 +7,12 @@ We conducted a labeling work on a spoken Japanese dataset (I-JAS) for the text c
 
     labels:
 
-    ssi/osi:subjective information
-    soi/ooi/kn:objective information
-    op/sp:plan
+    ssi:self-subjective information
+    osi:others-subjective information
+    soi:self-objective information
+    ooi/kn:others-bjective information
+    op:other-plan
+    sp:self-plan
     qu:question
     ap:apology
     th:thanking
