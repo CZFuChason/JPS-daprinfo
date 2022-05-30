@@ -37,6 +37,17 @@ Please kindly cite this dataset when you use it.
 
 Changzeng Fu, Chaoran Liu, Carlos Toshinori Ishi, & Hiroshi Ishiguro. (2021). JPS-daprinfo: A Dataset for Japanese Dialog Act Analysis and People-related Information Detection (Version v1.0) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4590253
 
+    @article{fu2021using,
+      title={Using an Android Robot to Improve Social Connectedness by Sharing Recent Experiences of Group Members in Human-Robot Conversations},
+      author={Fu, Changzeng and Liu, Chaoran and Ishi, Carlos Toshinori and Yoshikawa, Yuichiro and Iio, Takamasa and Ishiguro, Hiroshi},
+      journal={IEEE Robotics and Automation Letters},
+      volume={6},
+      number={4},
+      pages={6670--6677},
+      year={2021},
+      publisher={IEEE}
+    }
+    
     @dataset{changzeng_fu_2021_4590253,
       author       = {Changzeng Fu and
                       Chaoran Liu and
